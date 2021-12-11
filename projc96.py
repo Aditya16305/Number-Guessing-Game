@@ -1,4 +1,3 @@
-from os import startfile
 import random
 
 i = 0
