@@ -8,7 +8,7 @@ num1 = random.randint(0, 9)
 
 state = 'start'
 
-while(i < 3):
+while(i < 5):
 
     i += 1
 
